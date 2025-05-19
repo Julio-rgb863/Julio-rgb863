@@ -1,3 +1,8 @@
+<a href="https://storyset.com/web">
+  <img align="right" src="./img/js-framework-rafiki.png" alt="a dev" width=40% height=40% altura=40% />
+</a>
+
+
 # Olá, mundo! Eu sou o Júlio Rolim 👋
 
 ## 🚀 Sobre mim
