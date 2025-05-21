@@ -4,6 +4,7 @@
 
 - 👨‍💻 Estou realizando o tecnólogo em Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul, com conclusão para 2027.
 - 🎓 Finalizei o curso técnico de Análise e Desenvolvimento de Sistemas na FATEC, concluído em julho de 2022.
+- 📚 Atualmente estou estudando:Javascript
 - 🔭 Estou sempre aberto para descobrir coisas novas.
 
 ## 🛠️ Tecnologias que já usei
