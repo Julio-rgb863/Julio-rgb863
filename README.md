@@ -11,7 +11,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=replit,vscode,html,css,js,php,phpstorm,figma&theme=dark" />
+     <img src="https://skillicons.dev/icons?i=replit,vscode,html,css,js,php,phpstorm,figma,git,github&theme=dark" />
   </a>
 </p>
 
