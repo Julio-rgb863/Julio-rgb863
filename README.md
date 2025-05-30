@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Olá, mundo! Eu sou o Júlio Rolim 🪻
+<img src="https://raw.githubusercontent.com/Julio-rgb863/Julio-rgb863/main/assets/banner-julio.png" alt="Olá, mundo! Eu sou o Júlio Rolim 🪻" width="1000"/>
 
 Estudante apaixonado por tecnologia e desenvolvimento. Atualmente focado em Front-End, mas em constante evolução rumo ao Full Stack. 🚀  
 
