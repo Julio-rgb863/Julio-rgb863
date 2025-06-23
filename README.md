@@ -14,7 +14,7 @@ Estudante apaixonado por tecnologia e desenvolvimento. Atualmente focado em Fron
 
 - 💻 Cursando **Análise e Desenvolvimento de Sistemas** na *Cruzeiro do Sul* – conclusão prevista para **2027**  
 - 🎓 Formado em curso técnico pela *FATEC* (ADS - **2022**)  
-- 📚 Atualmente estudando: **JavaScript**  
+- 📚 Atualmente estudando: **TypeScript**  
 - ✨ Curioso e sempre em busca de novos aprendizados  
 
 ---
@@ -27,6 +27,7 @@ Estudante apaixonado por tecnologia e desenvolvimento. Atualmente focado em Fron
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
