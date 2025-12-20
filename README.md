@@ -14,7 +14,8 @@ Estudante apaixonado por tecnologia e desenvolvimento. Atualmente focado em Fron
 
 - 💻 Cursando **Análise e Desenvolvimento de Sistemas** na *Cruzeiro do Sul* – conclusão prevista para **2027**  
 - 🎓 Formado em curso técnico pela *FATEC* (ADS - **2022**)  
-- 📚 Atualmente estudando: **TypeScript**  
+- 📚 Atualmente estudando: **Java
+- **  
 - ✨ Curioso e sempre em busca de novos aprendizados  
 
 ---
