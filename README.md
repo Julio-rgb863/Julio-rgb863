@@ -1,6 +1,5 @@
-
 Olá, mundo! Eu sou o Júlio Rolim 🪻
-Estudante apaixonado por tecnologia e desenvolvimento. Atualmente focado em Full Stack, construindo projetos reais com arquitetura distribuída. 🚀
+Estudante apaixonado por tecnologia e desenvolvimento. Atualmente focado em Front-End, mas em constante evolução rumo ao Full Stack. 🚀
 �
 ￼
 �
@@ -8,19 +7,13 @@ Estudante apaixonado por tecnologia e desenvolvimento. Atualmente focado em Full
 🪐 Sobre mim
 💻 Cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul – conclusão prevista para 2027
 🎓 Formado em curso técnico pela FATEC (ADS - 2022)
-🔨 Atualmente construindo: FestFlow — plataforma distribuída de venda de ingressos
+📚 Atualmente estudando: Banco de Dados
 ✨ Curioso e sempre em busca de novos aprendizados
 🧪 Tecnologias que já usei
 �
 ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ 
 
 
-🔨 Projeto em destaque
-FestFlow
-Plataforma distribuída de venda de ingressos e gestão de festivais de música — inspirado em Lollapalooza e Tomorrowland.
-Stack: Node.js · TypeScript · Docker · PostgreSQL · MongoDB · MySQL · Prisma · Next.js · Svelte · Java · Socket.IO · Vercel
-�
-Carregar imagem
 ✉️ Como me encontrar
 �
 
@@ -34,3 +27,7 @@ Carregar imagem
 �
 ￼ ￼ 
 
+
+�
+
+Feito com 💜 por Júlio Rolim
